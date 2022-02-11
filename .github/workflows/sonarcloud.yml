@@ -1,8 +1,8 @@
+name: SonarCloud CI
 on:
   pull_request:
     branches: [ main ]
 
-name: SonarCloud CI
 jobs:
   sonarqube:
     runs-on: ubuntu-latest
