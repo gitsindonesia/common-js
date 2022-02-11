@@ -55,5 +55,8 @@
   },
   "jestSonar": {
     "reportPath": "coverage"
+  },
+  "dependencies": {
+    "ci": "^2.1.1"
   }
 }
