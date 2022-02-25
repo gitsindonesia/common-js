@@ -1,4 +1,5 @@
-# Common JS
+# Common JS  
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gitsindonesia_common-js&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=gitsindonesia_common-js)
 
 Common Library from Gits Indonesia. Purpose to implement reusable code.
 
